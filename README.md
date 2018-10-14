@@ -1,2 +1,6 @@
 # 141A-projects
-Monopoly Simulation and KNN algorithm/10-folds cross validation of picture recognition
+Project 1:
+Monopoly Simulation
+
+Project 2:
+KNN algorithm/10-folds cross validation of picture classification
